@@ -8,8 +8,10 @@ The data is accurate to that available on the zomato website until 15 March 2019
 Libraries
 1. Pandas: For data manipulation, cleaning, and preparation.
 2. NumPy: For numerical operations and handling arrays.
-3.Matplotlib: For creating static visualizations.
-4.Seaborn: For statistical data visualization.
+3. Matplotlib: For creating static visualizations.
+4. Seaborn: For statistical data visualization.
+
+
 
 
 
